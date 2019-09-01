@@ -26,3 +26,10 @@ website : https://unknown240.github.io
 
 Indonesia,Jakarta - August,2018
 https://t.me/unknown240
+
+
+# Noted
+
+file androidfilehost
+
+just type " bash install " so script run and download file.
