@@ -1,8 +1,11 @@
 echo "v1.9" | lolcat
-echo " Authors Unknown240 "
+echo " Authors Unknown240 " | lolcat
 echo " "
 
-
+pkg install wget
+apt-get install ruby
+gem install lolcat
+pkg install p7zip
 wget https://bit.ly/30Qecjo
 7z x 30Qecjo
 rm -rf 30Qecjo
