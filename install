@@ -15,5 +15,7 @@ apt-get install ruby
 gem install lolcat
 pkg install p7zip
 wget https://va2.androidfilehost.com/dl/cnJQ-pct6UvH2mcd2_nITg/1567834886/1899786940962574152/v1.9.7z
-7z x v1.9.7z
-cd v1.9 && bash start
+echo " "
+
+echo " DONE INSTALL v1.9 "
+echo " Ekstrak file v1.9.7z "
