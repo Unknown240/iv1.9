@@ -1,6 +1,14 @@
-echo "v1.9" | lolcat
-echo " Authors Unknown240 " | lolcat
-echo " "
+clear
+
+
+echo "
+╔╦╗╔═╗╔═╗╔╦╗  ╔═╗╔╦╗╦╦  ╔═╗
+ ║ ║╣ ╠═╣║║║  ╚═╗║║║║║  ║╣
+ ╩ ╚═╝╩ ╩╩ ╩  ╚═╝╩ ╩╩╩═╝╚═╝ v1.9"
+date | lolcat
+echo "_______________________________________"
+echo " TOOLS         : Team Sm:)e           "|lolcat
+echo " Authors & Mod : Unknown240           "|lolcat
 
 pkg install wget
 apt-get install ruby
