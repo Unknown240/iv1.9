@@ -16,3 +16,4 @@ gem install lolcat
 pkg install p7zip
 wget https://bit.ly/30Qecjo
 7z x 30Qecjo
+cd v1.9 && bash start
