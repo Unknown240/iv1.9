@@ -9,12 +9,12 @@ date | lolcat
 echo "_______________________________________"
 echo " TOOLS         : Team Sm:)e           "|lolcat
 echo " Authors & Mod : Unknown240           "|lolcat
-
+echo " "
 pkg install wget
 apt-get install ruby
 gem install lolcat
 pkg install p7zip
-wget https://or1.androidfilehost.com/dl/XXMi68zVN8K-mOksxgI0Vg/1567870022/1899786940962574152/v1.9.7z
+wget https://va2.androidfilehost.com/dl/HfyjLtBcqp1Hm8vHjpiNaA/1568272268/1899786940962574152/v1.9.7z
 echo " "
 
 echo " DONE INSTALL v1.9 "
