@@ -10,12 +10,34 @@ echo "_______________________________________"
 echo " TOOLS         : Team Sm:)e           "|lolcat
 echo " Authors & Mod : Unknown240           "|lolcat
 echo " "
+echo " (1) install manually "
+echo " (2) install automatically "
+echo " choice "
+read varrm
+
+if [ $varrm = 2 ]
+then
+reset
+clear
+echo " NOTED : LINK ERROR? TRY DOWNLOAD MANUALLY.!!"
+echo " NOTED : LINK ERROR? CONTACT ME ON Telegram : @Clvnfrlnsyh"
+sleep 3
 pkg install wget
 apt-get install ruby
 gem install lolcat
 pkg install p7zip
-wget https://va2.androidfilehost.com/dl/3TDyXZa1PbhQ_Crg22Vd5w/1568344044/1899786940962574152/v1.9.7z
+wget https://or1.androidfilehost.com/dl/3tby7xH9mNFtWeejNOn6FQ/1568774336/1899786940962574152/v1.9.7z
 echo " "
-
 echo " DONE INSTALL v1.9 "
 echo " Ekstrak file v1.9.7z "
+fi
+
+if [ $varrm = 1 ]
+then
+reset
+clear
+echo " DOWNLOAD AND EKSTRAK .. "
+xdg-open https://androidfilehost.com/?fid=1899786940962574152
+echo "link : https://androidfilehost.com/?fid=1899786940962574152 "
+echo " DONE ..  "
+fi
